@@ -4,7 +4,7 @@
 
 i’m a rising senior at new york university studying computer science and mathematics. i enjoy building full-stack web applications and continuously improving my technical skills. this is a collection of my projects!
 
-[view my resume](https://docs.google.com/document/d/1K4fgSxqh4HOPR3X5MUkH-C_unM-gM8VTWxaWRmm4ws8/edit?usp=sharing)
+[view my resume](https://docs.google.com/document/d/1XiIoRFO_LbTzcB4RdMPaBzKA38VAzrWQjwDAhYTzi18/edit?tab=t.0)
 
 ---
 
