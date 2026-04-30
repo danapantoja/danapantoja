@@ -33,8 +33,8 @@ i’m a rising senior at new york university studying computer science and mathe
 
 
 ## contact
-<a href="https://linkedin.com/in/danapantoja"><img src="https://img.shields.io/badge/-Dana%20Pantoja--Campa-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dpp9951@nyu.edu"><img src="https://img.shields.io/badge/-dpp9951@nyu.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/danapantoja"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dpp9951@nyu.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 
