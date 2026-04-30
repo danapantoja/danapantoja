@@ -2,7 +2,7 @@
 
 # hi, i'm dana!
 
-i’m a rising senior at new york university studying computer science and math, interested in full-stack development, data science, and applied ml.
+i’m a rising senior at new york university studying computer science and mathematics. i enjoy building full-stack development and continuously improving my technical skills.
 
 this github is a collection of my projects, from web applications to research related work.
 
