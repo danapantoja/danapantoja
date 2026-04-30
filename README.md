@@ -2,9 +2,7 @@
 
 # hi, i'm dana!
 
-i’m a rising senior at new york university studying computer science and mathematics. i enjoy building full-stack development and continuously improving my technical skills.
-
-this github is a collection of my projects, from web applications to research related work.
+i’m a rising senior at new york university studying computer science and mathematics. i enjoy building full-stack web applications and continuously improving my technical skills. this is a collection of my projects!
 
 [view my resume](https://docs.google.com/document/d/1K4fgSxqh4HOPR3X5MUkH-C_unM-gM8VTWxaWRmm4ws8/edit?usp=sharing)
 
@@ -35,7 +33,7 @@ this github is a collection of my projects, from web applications to research re
 
 
 ## contact
-<a href="https://linkedin.com/in/danapantoja"><img src="https://img.shields.io/badge/-Dana%20Pantoja--Campa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/danapantoja"><img src="https://img.shields.io/badge/-Dana%20Pantoja--Campa-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dpp9951@nyu.edu"><img src="https://img.shields.io/badge/-dpp9951@nyu.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
