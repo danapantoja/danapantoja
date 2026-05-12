@@ -39,7 +39,7 @@ i’m a rising senior at new york university studying computer science and mathe
 
 
 ## leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/deyba?theme=dark&font=Fira%20Code)
+![LeetCode Stats](https://leetcard.jacoblin.cool/deynanana?theme=dark&font=Fira%20Code)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/> 
