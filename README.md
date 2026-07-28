@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-# hi, i'm dana!
+# Hi, I'm Dana!
 
-i’m a rising senior at new york university studying computer science and mathematics. i enjoy building full-stack web applications and continuously improving my technical skills. this is a collection of my projects!
+I’m a rising senior at New York University studying Computer Science and Mathematics. I enjoy building full-stack web applications and continuously improving my technical skills. This is a collection of my projects!
 
-[view my resume](https://docs.google.com/document/d/1XiIoRFO_LbTzcB4RdMPaBzKA38VAzrWQjwDAhYTzi18/edit?tab=t.0)
+[View my resume!](https://docs.google.com/document/d/1XiIoRFO_LbTzcB4RdMPaBzKA38VAzrWQjwDAhYTzi18/edit?tab=t.0)
 
 ---
 
-## tech stack
+## Tech Stack
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -32,13 +32,13 @@ i’m a rising senior at new york university studying computer science and mathe
 
 
 
-## contact
+## Contact
 <a href="https://linkedin.com/in/danapantoja"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dpp9951@nyu.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 
-## leetcode
+## Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/deynanana?theme=dark&font=Fira%20Code)
 
 
